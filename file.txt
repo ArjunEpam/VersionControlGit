@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-commit 2 master
-=======
-test branch commit
->>>>>>> test
+commit 3 in test
