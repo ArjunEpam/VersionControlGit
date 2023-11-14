@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 commit 2 master
 =======
 test branch commit
@@ -7,3 +8,6 @@ test branch commit
 =======
 test branch commit
 >>>>>>> 644470b (test branch first commit)
+=======
+commit 3 in test
+>>>>>>> parent of a435395 (fourth commit in test)
